@@ -1,0 +1,13 @@
+h1 {
+    color:forestgreen
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+#notes {
+    background-color: lightyellow;
+    color: darkgreen;
+    font-size: 1.2em;
+}
