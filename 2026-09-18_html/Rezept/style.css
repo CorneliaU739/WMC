@@ -1,5 +1,5 @@
 h1 {
-    color:forestgreen
+    color:rgb(245, 153, 151)
 }
 
 body {
@@ -8,6 +8,17 @@ body {
 
 #notes {
     background-color: lightyellow;
-    color: darkgreen;
+    color: rgb(226, 129, 125);
     font-size: 1.2em;
 }
+
+tr:nth-of-type(even)
+{
+    background-color: rgb(233, 194, 194);
+}
+
+tr:nth-of-type(odd)
+{
+    background-color: rgb(243, 239, 236);
+}
+
